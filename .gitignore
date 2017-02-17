@@ -38,6 +38,9 @@ captures/
 # Keystore files
 *.jks
 
+# User-specific configurations
+.idea/
+
 # =========================
 # Operating System Files
 # =========================
